@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: Vista ampliada - Quadrados  C5 a C11 e I5 a I11-2.jpg
+img: Vista ampliada - Quadrados F3 a F6 e I3 a I6-2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

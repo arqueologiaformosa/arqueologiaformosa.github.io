@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-17
-img: Vista ampliada - Quadrados A6 a A10 e B6 a B10-2.jpg
+modal-id: 6
+date: 2014-07-15
+img: Vista ampliada - Quadrados F10 a F13 e I10 a I13-2.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
