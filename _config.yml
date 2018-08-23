@@ -1,11 +1,19 @@
 # Site settings
-title: Arqueologia Formosa
+title: SÍTIO ARQUEOLÓGICO DO LAJEDO DO BISNAU
 email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+url: https://arqueologiaformosa.github.io
+description: "O que oferecemos são apenas notícias avulsas de uma longa história,
+pequenas amostras copiadas dos inúmeros paredões e lajedos pintados ou
+gravados, como se fossem as migalhas da mesa farta da arqueologia
+brasileira. Elas podem servir para que outros arqueólogos as incorporem na
+manta que estão costurando por que as amostras são selecionadas e legítimas;
+como podem servir para dar asas à imaginação do curioso, que deseja
+conhecer mais sobre os índios brasileiros e seu passado;pode mesmo, a um
+descuidado folheador, proporcionar a segurança da superioridade de sua
+própria cultura. (SCHMITZ et.al., 1984:5)."
 keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+meta_author: Vera Gilberto
 
 # Google webmaster tools
 google_verify:
